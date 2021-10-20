@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HIC",
+    "slug": "HIC",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HIC"
+}
